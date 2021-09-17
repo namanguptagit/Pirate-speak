@@ -28,6 +28,7 @@ body{
     text-align: center;
     background-color: var(--primary-blue);
     font-family: 'Montserrat', sans-serif;
+    background-image : url(E:\git\Pirate-speak\bacd-img);
 }
 .container{
     width: 100%;
